@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{54795798-42C6-4A68-8699-AC8AB2AFD54B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrainCalc/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BrainCalc/MainPage.xaml" Line="31" Column="15" />
+      <File FileName="BrainCalc/MainPage.xaml.cs" Line="76" Column="1" />
+      <File FileName="BrainCalc/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../tvandien/chatferxamarin.git/ChatferPCL/ChatferPCL/Shared/API.cs" line="145" offsetX="1287" offsetY="2030" expression="request" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.BrainCalc.Android PreferredExecutionTarget="Android.android_xam" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BrainCalc.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.878589D5-1C95-4E71-AC1A-8C596762096C" />
+</Properties>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:BrainCalc" x:Class="BrainCalc.MainPage">
+    <StackLayout Padding="0,40,0,0">
+        <!-- Place new controls here -->
+        <Label Text="Speed up your brain!" HorizontalOptions="Center" />
+        <Label Text="Enter the sum of these quickly!" HorizontalOptions="Center">
+        </Label>
+        <Label x:Name="highestScoreLabel" Text="High score: 0" HorizontalOptions="Center" FontAttributes="Bold">
+        </Label>
+        <Label x:Name="scoreLabel" Text="Score: 0" HorizontalOptions="Center" FontAttributes="Bold">
+        </Label>
+        <Label x:Name="numberLabel" Text="5 + 5" FontSize="Large" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        </Label>
+        <Label x:Name="countdownLabel" Text="Come on!!!" FontSize="Micro" FontAttributes="Italic" HorizontalOptions="Center">
+        </Label>
+        <Entry x:Name="entrySum" Placeholder="Enter the sum..." TextChanged="Handle_TextChanged" HorizontalOptions="Center" VerticalOptions="StartAndExpand" FontSize="Large" Keyboard="Numeric">
+        </Entry>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button x:Name="divisionButton" Text="Division /" Clicked="Handle_Clicked">
+            </Button>
+            <BoxView>
+            </BoxView>
+            <Button x:Name="multiplicationButton" Text="Multiplication *" Clicked="Handle_Clicked_1">
+            </Button>
+            <BoxView>
+            </BoxView>
+            <Button x:Name="moduloButton" Text="Modulus %" Clicked="Handle_Clicked_2">
+            </Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

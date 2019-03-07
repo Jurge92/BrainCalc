@@ -1,0 +1,9 @@
+/Users/jurge92/Projects/BrainCalc/BrainCalc/bin/Debug/netstandard2.0/BrainCalc.deps.json
+/Users/jurge92/Projects/BrainCalc/BrainCalc/bin/Debug/netstandard2.0/BrainCalc.dll
+/Users/jurge92/Projects/BrainCalc/BrainCalc/bin/Debug/netstandard2.0/BrainCalc.pdb
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.csprojResolveAssemblyReference.cache
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.csproj.CoreCompileInputs.cache
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.AssemblyInfoInputs.cache
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.AssemblyInfo.cs
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.dll
+/Users/jurge92/Projects/BrainCalc/BrainCalc/obj/Debug/netstandard2.0/BrainCalc.pdb
